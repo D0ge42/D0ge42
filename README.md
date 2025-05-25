@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for <a href="https://www.txtgroup.com" target="_blank">@TXT E-tech</a>
+🔭 I’m currently working for [@TXT E-tech](https://www.txtgroup.com)<br>
 🌱 I’m currently learning C, C++ and QT for embedded software and systems.<br>⚡ Passionate about cybersecurity and low level programming
 
 
@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D0ge42&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D0ge42&icon=4&color=1)](https://visitcount.itsvg.in)
