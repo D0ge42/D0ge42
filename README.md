@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working for [@TXT E-tech](https://www.txtgroup.com)<br>
-🌱 I’m currently learning C, C++ and QT for embedded software and systems.<br>⚡ Passionate about cybersecurity and low level programming
+🌱 I’m currently learning C, C++, assembly and QT for embedded software and systems.<br>⚡ Passionate about cybersecurity and low level programming
 
 
 ## 🌐 Socials:
